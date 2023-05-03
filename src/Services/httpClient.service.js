@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const httpClient = axios.create({
-    baseURL: 'http://127.0.0.1:5000',
+    baseURL: 'https://agromarketshop.up.railway.app',
     timeout: 50000,
     headers: {
         "Content-Type": "application/json"
