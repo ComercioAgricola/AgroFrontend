@@ -6,7 +6,7 @@ export default class Footer extends Component {
     return (
         <div>
             <footer>
-                © 2023 - TODOS LOS DERECHOS RESERVADOS AgroMarketPlace
+                © 2023 - SIIOIIIIII TODOS LOS DERECHOS RESERVADOS AgroMarketPlace
             </footer>
         </div>
     )

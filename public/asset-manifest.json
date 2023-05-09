@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b2824873.css",
+    "main.js": "/static/js/main.81947359.js",
+    "static/js/787.22edae46.chunk.js": "/static/js/787.22edae46.chunk.js",
+    "static/media/infoVendedor.svg": "/static/media/infoVendedor.1a067677e7b682fc08d64f68bc35bf7a.svg",
+    "static/media/logologin.svg": "/static/media/logologin.86db377dbdf4cf56eba1407a5bf11940.svg",
+    "static/media/Cargando.svg": "/static/media/Cargando.4c625aacb18ef5ab10139d95e7389cc4.svg",
+    "static/media/LogoMarketShop.svg": "/static/media/LogoMarketShop.b14c9406bf8bfeadd8550f59328c3c32.svg",
+    "static/media/color.png": "/static/media/color.6441e63a57ccc5105bad.png",
+    "static/media/small_logo.svg": "/static/media/small_logo.36b0acf119c031e737afedec516e97f8.svg",
+    "index.html": "/index.html",
+    "main.b2824873.css.map": "/static/css/main.b2824873.css.map",
+    "main.81947359.js.map": "/static/js/main.81947359.js.map",
+    "787.22edae46.chunk.js.map": "/static/js/787.22edae46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2824873.css",
+    "static/js/main.81947359.js"
+  ]
+}

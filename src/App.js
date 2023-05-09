@@ -12,6 +12,7 @@ import SellerProfile from './Components/SellerProfile/sellerProfile';
 import Registro from './Components/Login/registro';
 import SelectedProduct from './Components/selectedProduct/selectedProduct';
 import ShoppingCart from './Components/ShoppingCart/shoppingCart';
+import Confirm from './Components/Confirm/confirm';
 import "primereact/resources/themes/lara-light-indigo/theme.css";     
 import "primereact/resources/primereact.min.css";               
 
@@ -30,6 +31,7 @@ function App() {
             <Route path="/product/:idProduct" element={<SelectedProduct />} />
             <Route path="/carrito" element={<ShoppingCart />} />
             <Route path="/registro" element={<Registro />} />
+            <Route path="/user/confirm/:token" element={<Confirm/>} />
           </Routes>
         </Router>
         <Footer />
